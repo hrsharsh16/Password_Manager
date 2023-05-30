@@ -1,0 +1,4 @@
+pip-installable libraries that the project requires:
+1. cryptography
+2. getpass
+3. tabulate
